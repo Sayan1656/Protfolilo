@@ -1,0 +1,63 @@
+.footer{
+    background-color: #000000;
+}
+
+.para-footer{
+    padding-top: 50px;
+}
+
+.padding-top-20{
+    padding-top: 20px;
+}
+
+.padding-l-r-50{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.bottom-margin-30{
+    margin-bottom: 30px;
+}
+
+hr .border{
+    border-top: 4px solid #ffffff;
+}
+
+.phone{
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    padding-bottom: 10px;
+    transition: all 0.5s ease 0s;
+}
+
+.phone:hover{
+    color: #D4F6CC;
+    text-shadow: 0 0 1px #ffffff;
+    transition: all 0.5s ease 0s;
+}
+
+.mail{
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    transition: all 0.5s ease 0s;
+}
+
+.mail:hover{
+    color: #D4F6CC;
+    text-shadow: 0 0 1px #ffffff;
+    transition: all 0.5s ease 0s;
+}
+
+.brand{
+    background-color: #ffffff;
+}
+
+.City{
+    font-size: 40px;
+}
+
+.address{
+    font-size: 20px;
+}
